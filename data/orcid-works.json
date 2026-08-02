@@ -1,0 +1,470 @@
+{
+  "orcid": "0000-0003-2683-0515",
+  "works": [
+    {
+      "title": "Energy-saving performance of formation sailing strategies for amphibious vehicles: A hydrodynamic and energy perspective",
+      "authors": [
+        "Liu B",
+        "Wang J",
+        "Pan D",
+        "Chen Z",
+        "Xie Y",
+        "Zhao X",
+        "Xu X"
+      ],
+      "journal": "Journal of Cleaner Production",
+      "year": "2026",
+      "month": 2,
+      "volume": "546",
+      "issue": null,
+      "page": "147771",
+      "doi": "10.1016/j.jclepro.2026.147771",
+      "type": "journal-article"
+    },
+    {
+      "title": "Design of Multi-Legged Locomotion Control System for Reconfigurable Robots Integrating Decoupled Virtual Model Control with BP Neural Network",
+      "authors": [
+        "Yang C",
+        "Liu J",
+        "Cai T",
+        "Zhao Y",
+        "Wang W",
+        "Liu B",
+        "Xu X"
+      ],
+      "journal": "Machines",
+      "year": "2026",
+      "month": 2,
+      "volume": "14",
+      "issue": "2",
+      "page": "184",
+      "doi": "10.3390/machines14020184",
+      "type": "journal-article"
+    },
+    {
+      "title": "Investigation into the Hydrodynamic Characteristics of Wheel-Track Amphibious Vehicles",
+      "authors": [
+        "Xie Y",
+        "Xu X",
+        "Pan D",
+        "Liu B",
+        "Chen Z"
+      ],
+      "journal": "Lecture Notes in Electrical Engineering",
+      "year": "2026",
+      "month": 0,
+      "volume": null,
+      "issue": null,
+      "page": "193-200",
+      "doi": "10.1007/978-981-95-7664-7_18",
+      "type": "book-chapter"
+    },
+    {
+      "title": "Energy-efficient trim control of stern-foil amphibious vehicles: A control-in-the-loop CFD framework for calm and wavy conditions",
+      "authors": [
+        "Xie Y",
+        "Liu B",
+        "Pan D",
+        "Zhao X",
+        "Xu X"
+      ],
+      "journal": null,
+      "year": "2026",
+      "month": 0,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "doi": "10.2139/ssrn.6631861",
+      "type": "preprint"
+    },
+    {
+      "title": "Research on drag reduction and energy saving of M-bow amphibious vehicle based on configuration optimization",
+      "authors": [
+        "Liu B",
+        "Pan D",
+        "Xie Y",
+        "Lu S",
+        "Liu J",
+        "Zhang L",
+        "Xu X"
+      ],
+      "journal": "Ocean Engineering",
+      "year": "2025",
+      "month": 12,
+      "volume": "342",
+      "issue": null,
+      "page": "123161",
+      "doi": "10.1016/j.oceaneng.2025.123161",
+      "type": "journal-article"
+    },
+    {
+      "title": "Experimental investigation on hydrodynamic performance of amphibious vehicles with hydrofoil in calm water and regular waves",
+      "authors": [
+        "Pan D",
+        "Xie Y",
+        "Liu B",
+        "Xu X"
+      ],
+      "journal": "Ships and Offshore Structures",
+      "year": "2025",
+      "month": 6,
+      "volume": null,
+      "issue": null,
+      "page": "1-17",
+      "doi": "10.1080/17445302.2025.2524038",
+      "type": "journal-article"
+    },
+    {
+      "title": "Performance optimization of a variable configuration hydrofoil amphibious robot based on genetic algorithm",
+      "authors": [
+        "Pan D",
+        "Zhou F",
+        "Liu B",
+        "Xu X"
+      ],
+      "journal": "Journal of Physics: Conference Series",
+      "year": "2025",
+      "month": 0,
+      "volume": "2965",
+      "issue": "1",
+      "page": "012023",
+      "doi": "10.1088/1742-6596/2965/1/012023",
+      "type": "conference-paper"
+    },
+    {
+      "title": "Study and optimization of a deformable trimaran amphibious transport vehicle's resistance characteristic",
+      "authors": [
+        "Liu B",
+        "Pan D",
+        "Xu X"
+      ],
+      "journal": "Physics of Fluids",
+      "year": "2024",
+      "month": 4,
+      "volume": "36",
+      "issue": "4",
+      "page": "045159",
+      "doi": "10.1063/5.0205312",
+      "type": "journal-article"
+    },
+    {
+      "title": "Research on the resistance and maneuvering characteristics of an amphibious transport vehicle and the influence of stern hydrofoil",
+      "authors": [
+        "Liu B",
+        "Pan D",
+        "Xu X"
+      ],
+      "journal": "Ocean Engineering",
+      "year": "2024",
+      "month": 2,
+      "volume": "293",
+      "issue": null,
+      "page": "116592",
+      "doi": "10.1016/j.oceaneng.2023.116592",
+      "type": "journal-article"
+    },
+    {
+      "title": "Experimental and CFD investigation on resistance reduction of hydrofoils for amphibious vehicles",
+      "authors": [
+        "Pan D",
+        "Liu B",
+        "Xu X",
+        "Wang X"
+      ],
+      "journal": "Ships and Offshore Structures",
+      "year": "2024",
+      "month": 0,
+      "volume": "19",
+      "issue": "11",
+      "page": "1938-1951",
+      "doi": "10.1080/17445302.2024.2317634",
+      "type": "journal-article"
+    },
+    {
+      "title": "Amphibious vehicle's resistance optimization through neural networks and genetic algorithms",
+      "authors": [
+        "Liu B",
+        "Zhang Y",
+        "Pan D",
+        "Xu X",
+        "Cai T"
+      ],
+      "journal": "Physics of Fluids",
+      "year": "2024",
+      "month": 0,
+      "volume": "36",
+      "issue": "6",
+      "page": "065129",
+      "doi": "10.1063/5.0210244",
+      "type": "journal-article"
+    },
+    {
+      "title": "Research on launching, water exiting, and river crossing of an amphibious vehicle",
+      "authors": [
+        "Liu B",
+        "Xu X",
+        "Pan D"
+      ],
+      "journal": "Physics of Fluids",
+      "year": "2023",
+      "month": 11,
+      "volume": "35",
+      "issue": "11",
+      "page": "113328",
+      "doi": "10.1063/5.0174148",
+      "type": "journal-article"
+    },
+    {
+      "title": "Influence of resistance due to locomotion mechanism configurations of a new high-speed amphibious vehicle (HSAV-Ⅱ)",
+      "authors": [
+        "Liu B",
+        "Xu X",
+        "Pan D"
+      ],
+      "journal": "Ocean Engineering",
+      "year": "2023",
+      "month": 9,
+      "volume": "283",
+      "issue": null,
+      "page": "115175",
+      "doi": "10.1016/j.oceaneng.2023.115175",
+      "type": "journal-article"
+    },
+    {
+      "title": "Numerical analysis on hydrodynamic performance and hydrofoil optimization for amphibious vehicles",
+      "authors": [
+        "Pan D",
+        "Xu X",
+        "Liu B"
+      ],
+      "journal": "Physics of Fluids",
+      "year": "2023",
+      "month": 8,
+      "volume": "35",
+      "issue": "8",
+      "page": "083330",
+      "doi": "10.1063/5.0159980",
+      "type": "journal-article"
+    },
+    {
+      "title": "Resistance reduction optimization of an amphibious transport vehicle",
+      "authors": [
+        "Liu B",
+        "Xu X",
+        "Pan D"
+      ],
+      "journal": "Ocean Engineering",
+      "year": "2023",
+      "month": 7,
+      "volume": "280",
+      "issue": null,
+      "page": "114854",
+      "doi": "10.1016/j.oceaneng.2023.114854",
+      "type": "journal-article"
+    },
+    {
+      "title": "Drag reduction design and research of high-speed amphibious vehicle’s deformable track wheels",
+      "authors": [
+        "Liu B",
+        "Xu X",
+        "Pan D",
+        "Feng Y",
+        "Lu S"
+      ],
+      "journal": "Ships and Offshore Structures",
+      "year": "2023",
+      "month": 7,
+      "volume": "18",
+      "issue": "7",
+      "page": "970-979",
+      "doi": "10.1080/17445302.2022.2093032",
+      "type": "journal-article"
+    },
+    {
+      "title": "A review on drag reduction technology: Focusing on amphibious vehicles",
+      "authors": [
+        "Pan D",
+        "Xu X",
+        "Liu B",
+        "Xu H",
+        "Wang X"
+      ],
+      "journal": "Ocean Engineering",
+      "year": "2023",
+      "month": 7,
+      "volume": "280",
+      "issue": null,
+      "page": "114618",
+      "doi": "10.1016/j.oceaneng.2023.114618",
+      "type": "journal-article"
+    },
+    {
+      "title": "Influence of towing position on hydrodynamic characteristics of an Amphibious Tractor",
+      "authors": [
+        "Xu X",
+        "Liu B",
+        "Pan D",
+        "Xu H"
+      ],
+      "journal": "Ocean Engineering",
+      "year": "2023",
+      "month": 3,
+      "volume": "272",
+      "issue": null,
+      "page": "113932",
+      "doi": "10.1016/j.oceaneng.2023.113932",
+      "type": "journal-article"
+    },
+    {
+      "title": "Research on shipping energy-saving technology: Hydrofoil amphibious vehicle driven by waterjet propulsion",
+      "authors": [
+        "Liu B",
+        "Xu X",
+        "Pan D",
+        "Wang X"
+      ],
+      "journal": "Journal of Cleaner Production",
+      "year": "2023",
+      "month": 1,
+      "volume": "382",
+      "issue": null,
+      "page": "135257",
+      "doi": "10.1016/j.jclepro.2022.135257",
+      "type": "journal-article"
+    },
+    {
+      "title": "Hydrodynamic performance in wave condition of autonomous amphibious robots",
+      "authors": [
+        "Cai T",
+        "Pan D",
+        "Xu X",
+        "Liu B"
+      ],
+      "journal": "Journal of Physics: Conference Series",
+      "year": "2023",
+      "month": 1,
+      "volume": "2419",
+      "issue": "1",
+      "page": "012084",
+      "doi": "10.1088/1742-6596/2419/1/012084",
+      "type": "conference-paper"
+    },
+    {
+      "title": "Study on influence mechanism of front hydrofoil on hydrodynamic performance of flapping fin,前置水翼对摆动翼水动力性能影响机理研究",
+      "authors": [
+        "Feng Y",
+        "Xu X",
+        "Liu B",
+        "Zhang G"
+      ],
+      "journal": "Huazhong Keji Daxue Xuebao (Ziran Kexue Ban)/Journal of Huazhong University of Science and Technology (Natural Science Edition)",
+      "year": "2023",
+      "month": 0,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "doi": "10.13245/j.hust.230402",
+      "type": "journal-article"
+    },
+    {
+      "title": "Sailing resistance reduction and speed raising for amphibious vehicles using novel configuration",
+      "authors": [
+        "XU H",
+        "XU X",
+        "XU L",
+        "LIU B"
+      ],
+      "journal": "SCIENTIA SINICA Technologica",
+      "year": "2023",
+      "month": 0,
+      "volume": "53",
+      "issue": "8",
+      "page": "1272-1283",
+      "doi": "10.1360/sst-2023-0049",
+      "type": "journal-article"
+    },
+    {
+      "title": "Research and Application of Amphibious Bionic Robots,水陆两栖仿生机器人的研究及应用",
+      "authors": [
+        "Xu X-J",
+        "Liu B-L",
+        "Pan D-B",
+        "Lu X-J"
+      ],
+      "journal": "Journal of Unmanned Undersea Systems",
+      "year": "2023",
+      "month": 0,
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "doi": "10.11993/j.issn.2096-3920.2022-0083",
+      "type": "journal-article"
+    },
+    {
+      "title": "Frog Plunge-diving of Deformable Amphibious Robot",
+      "authors": [
+        "Liu B",
+        "Xu X",
+        "Pan D"
+      ],
+      "journal": "2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+      "year": "2022",
+      "month": 12,
+      "volume": "40",
+      "issue": null,
+      "page": "2342-2347",
+      "doi": "10.1109/robio55434.2022.10011922",
+      "type": "conference-paper"
+    },
+    {
+      "title": "Drag reduction configuration analysis of the grooves on amphibious vehicles walking mechanism",
+      "authors": [
+        "Liu B",
+        "Xu X",
+        "Pan D"
+      ],
+      "journal": "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science",
+      "year": "2022",
+      "month": 6,
+      "volume": "236",
+      "issue": "11",
+      "page": "5994-6006",
+      "doi": "10.1177/09544062211065380",
+      "type": "journal-article"
+    },
+    {
+      "title": "Research on sealing characteristics of annular power cylinder based on twin-rotor piston engine",
+      "authors": [
+        "Pan D",
+        "Xu H",
+        "Liu B",
+        "Yang C"
+      ],
+      "journal": "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science",
+      "year": "2022",
+      "month": 2,
+      "volume": "236",
+      "issue": "3",
+      "page": "1861-1876",
+      "doi": "10.1177/09544062211021440",
+      "type": "journal-article"
+    },
+    {
+      "title": "Influence of Flanks on Resistance Performance of High-Speed Amphibious Vehicle",
+      "authors": [
+        "Pan D",
+        "Xu X",
+        "Liu B"
+      ],
+      "journal": "Journal of Marine Science and Engineering",
+      "year": "2021",
+      "month": 11,
+      "volume": "9",
+      "issue": "11",
+      "page": "1260",
+      "doi": "10.3390/jmse9111260",
+      "type": "journal-article"
+    }
+  ],
+  "synchronised_at": "2026-08-02T14:46:46Z"
+}
