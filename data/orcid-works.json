@@ -217,16 +217,16 @@
     {
       "title": "Influence of resistance due to locomotion mechanism configurations of a new high-speed amphibious vehicle (HSAV-Ⅱ)",
       "authors": [
-        "Liu B",
-        "Xu X",
-        "Pan D"
+        "Bolong Liu",
+        "Xiaojun Xu",
+        "Dibo Pan"
       ],
       "journal": "Ocean Engineering",
       "year": "2023",
       "month": 9,
-      "volume": "283",
+      "volume": null,
       "issue": null,
-      "page": "115175",
+      "page": null,
       "doi": "10.1016/j.oceaneng.2023.115175",
       "type": "journal-article"
     },
@@ -466,5 +466,5 @@
       "type": "journal-article"
     }
   ],
-  "synchronised_at": "2026-08-02T14:46:46Z"
+  "synchronised_at": "2026-08-31T08:44:01Z"
 }
