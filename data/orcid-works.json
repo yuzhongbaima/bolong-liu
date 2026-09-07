@@ -2,6 +2,23 @@
   "orcid": "0000-0003-2683-0515",
   "works": [
     {
+      "title": "Hydrodynamic Performance and Bucket-Controlled Turning Optimization of an Amphibious Rescue and Operation Platform with Detachable Floating Boxes",
+      "authors": [
+        "Li J",
+        "Liu B",
+        "Xu X",
+        "Xie Y"
+      ],
+      "journal": "Journal of Marine Science and Engineering",
+      "year": "2026",
+      "month": 9,
+      "volume": "14",
+      "issue": "17",
+      "page": "1647",
+      "doi": "10.3390/jmse14171647",
+      "type": "journal-article"
+    },
+    {
       "title": "Energy-saving performance of formation sailing strategies for amphibious vehicles: A hydrodynamic and energy perspective",
       "authors": [
         "Liu B",
@@ -217,32 +234,32 @@
     {
       "title": "Influence of resistance due to locomotion mechanism configurations of a new high-speed amphibious vehicle (HSAV-Ⅱ)",
       "authors": [
-        "Bolong Liu",
-        "Xiaojun Xu",
-        "Dibo Pan"
+        "Liu B",
+        "Xu X",
+        "Pan D"
       ],
       "journal": "Ocean Engineering",
       "year": "2023",
       "month": 9,
-      "volume": null,
+      "volume": "283",
       "issue": null,
-      "page": null,
+      "page": "115175",
       "doi": "10.1016/j.oceaneng.2023.115175",
       "type": "journal-article"
     },
     {
       "title": "Numerical analysis on hydrodynamic performance and hydrofoil optimization for amphibious vehicles",
       "authors": [
-        "Pan D",
-        "Xu X",
-        "Liu B"
+        "Dibo Pan",
+        "Xiaojun Xu",
+        "Bolong Liu"
       ],
       "journal": "Physics of Fluids",
       "year": "2023",
       "month": 8,
-      "volume": "35",
-      "issue": "8",
-      "page": "083330",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1063/5.0159980",
       "type": "journal-article"
     },
@@ -265,36 +282,36 @@
     {
       "title": "Drag reduction design and research of high-speed amphibious vehicle’s deformable track wheels",
       "authors": [
-        "Liu B",
-        "Xu X",
-        "Pan D",
-        "Feng Y",
-        "Lu S"
+        "Bolong Liu",
+        "Xiaojun Xu",
+        "Dibo Pan",
+        "Yikun Feng",
+        "Shengyang Lu"
       ],
       "journal": "Ships and Offshore Structures",
       "year": "2023",
       "month": 7,
-      "volume": "18",
-      "issue": "7",
-      "page": "970-979",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1080/17445302.2022.2093032",
       "type": "journal-article"
     },
     {
       "title": "A review on drag reduction technology: Focusing on amphibious vehicles",
       "authors": [
-        "Pan D",
-        "Xu X",
-        "Liu B",
-        "Xu H",
-        "Wang X"
+        "Dibo Pan",
+        "Xiaojun Xu",
+        "Bolong Liu",
+        "Haijun Xu",
+        "Xiaocong Wang"
       ],
       "journal": "Ocean Engineering",
       "year": "2023",
       "month": 7,
-      "volume": "280",
+      "volume": null,
       "issue": null,
-      "page": "114618",
+      "page": null,
       "doi": "10.1016/j.oceaneng.2023.114618",
       "type": "journal-article"
     },
@@ -318,34 +335,34 @@
     {
       "title": "Research on shipping energy-saving technology: Hydrofoil amphibious vehicle driven by waterjet propulsion",
       "authors": [
-        "Liu B",
-        "Xu X",
-        "Pan D",
-        "Wang X"
+        "Bolong Liu",
+        "Xiaojun Xu",
+        "Dibo Pan",
+        "Xiaocong Wang"
       ],
       "journal": "Journal of Cleaner Production",
       "year": "2023",
       "month": 1,
-      "volume": "382",
+      "volume": null,
       "issue": null,
-      "page": "135257",
+      "page": null,
       "doi": "10.1016/j.jclepro.2022.135257",
       "type": "journal-article"
     },
     {
       "title": "Hydrodynamic performance in wave condition of autonomous amphibious robots",
       "authors": [
-        "Cai T",
-        "Pan D",
-        "Xu X",
-        "Liu B"
+        "Tong Cai",
+        "Dibo Pan",
+        "Xiaojun Xu",
+        "Bolong Liu"
       ],
       "journal": "Journal of Physics: Conference Series",
       "year": "2023",
       "month": 1,
-      "volume": "2419",
-      "issue": "1",
-      "page": "012084",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1088/1742-6596/2419/1/012084",
       "type": "conference-paper"
     },
@@ -435,17 +452,17 @@
     {
       "title": "Research on sealing characteristics of annular power cylinder based on twin-rotor piston engine",
       "authors": [
-        "Pan D",
-        "Xu H",
-        "Liu B",
-        "Yang C"
+        "Dibo Pan",
+        "Haijun Xu",
+        "Bolong Liu",
+        "Congnan Yang"
       ],
       "journal": "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science",
       "year": "2022",
       "month": 2,
-      "volume": "236",
-      "issue": "3",
-      "page": "1861-1876",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1177/09544062211021440",
       "type": "journal-article"
     },
@@ -466,5 +483,5 @@
       "type": "journal-article"
     }
   ],
-  "synchronised_at": "2026-08-31T08:44:01Z"
+  "synchronised_at": "2026-09-07T07:24:08Z"
 }
