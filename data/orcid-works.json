@@ -139,44 +139,44 @@
         "Liu B",
         "Xu X"
       ],
-      "journal": "Journal of Physics: Conference Series",
+      "journal": "Journal of Physics Conference Series",
       "year": "2025",
       "month": 0,
-      "volume": "2965",
-      "issue": "1",
-      "page": "012023",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1088/1742-6596/2965/1/012023",
       "type": "conference-paper"
     },
     {
       "title": "Study and optimization of a deformable trimaran amphibious transport vehicle's resistance characteristic",
       "authors": [
-        "Liu B",
-        "Pan D",
-        "Xu X"
+        "Bolong Liu",
+        "Dibo Pan",
+        "Xiaojun Xu"
       ],
       "journal": "Physics of Fluids",
       "year": "2024",
       "month": 4,
-      "volume": "36",
-      "issue": "4",
-      "page": "045159",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1063/5.0205312",
       "type": "journal-article"
     },
     {
       "title": "Research on the resistance and maneuvering characteristics of an amphibious transport vehicle and the influence of stern hydrofoil",
       "authors": [
-        "Liu B",
-        "Pan D",
-        "Xu X"
+        "Bolong Liu",
+        "Dibo Pan",
+        "Xiaojun Xu"
       ],
       "journal": "Ocean Engineering",
       "year": "2024",
       "month": 2,
-      "volume": "293",
+      "volume": null,
       "issue": null,
-      "page": "116592",
+      "page": null,
       "doi": "10.1016/j.oceaneng.2023.116592",
       "type": "journal-article"
     },
@@ -191,9 +191,9 @@
       "journal": "Ships and Offshore Structures",
       "year": "2024",
       "month": 0,
-      "volume": "19",
-      "issue": "11",
-      "page": "1938-1951",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1080/17445302.2024.2317634",
       "type": "journal-article"
     },
@@ -266,34 +266,34 @@
     {
       "title": "Resistance reduction optimization of an amphibious transport vehicle",
       "authors": [
-        "Liu B",
-        "Xu X",
-        "Pan D"
+        "Bolong Liu",
+        "Xiaojun Xu",
+        "Dibo Pan"
       ],
       "journal": "Ocean Engineering",
       "year": "2023",
       "month": 7,
-      "volume": "280",
+      "volume": null,
       "issue": null,
-      "page": "114854",
+      "page": null,
       "doi": "10.1016/j.oceaneng.2023.114854",
       "type": "journal-article"
     },
     {
       "title": "Drag reduction design and research of high-speed amphibious vehicle’s deformable track wheels",
       "authors": [
-        "Liu B",
-        "Xu X",
-        "Pan D",
-        "Feng Y",
-        "Lu S"
+        "Bolong Liu",
+        "Xiaojun Xu",
+        "Dibo Pan",
+        "Yikun Feng",
+        "Shengyang Lu"
       ],
       "journal": "Ships and Offshore Structures",
       "year": "2023",
       "month": 7,
-      "volume": "18",
-      "issue": "7",
-      "page": "970-979",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1080/17445302.2022.2093032",
       "type": "journal-article"
     },
@@ -352,17 +352,17 @@
     {
       "title": "Hydrodynamic performance in wave condition of autonomous amphibious robots",
       "authors": [
-        "Cai T",
-        "Pan D",
-        "Xu X",
-        "Liu B"
+        "Tong Cai",
+        "Dibo Pan",
+        "Xiaojun Xu",
+        "Bolong Liu"
       ],
       "journal": "Journal of Physics: Conference Series",
       "year": "2023",
       "month": 1,
-      "volume": "2419",
-      "issue": "1",
-      "page": "012084",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1088/1742-6596/2419/1/012084",
       "type": "conference-paper"
     },
@@ -384,19 +384,19 @@
       "type": "journal-article"
     },
     {
-      "title": "Sailing resistance reduction and speed raising for amphibious vehicles using novel configuration",
+      "title": "Sailing resistance reduction and speed raising for amphibious vehicles using novel configuration,基于构型创新的水陆两栖无人平台减阻增速技术",
       "authors": [
-        "XU H",
-        "XU X",
-        "XU L",
-        "LIU B"
+        "Xu H",
+        "Xu X",
+        "Xu L",
+        "Liu B"
       ],
-      "journal": "SCIENTIA SINICA Technologica",
+      "journal": "Zhongguo Kexue Jishu Kexue/Scientia Sinica Technologica",
       "year": "2023",
       "month": 0,
-      "volume": "53",
-      "issue": "8",
-      "page": "1272-1283",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1360/sst-2023-0049",
       "type": "journal-article"
     },
@@ -483,5 +483,5 @@
       "type": "journal-article"
     }
   ],
-  "synchronised_at": "2026-09-14T07:58:13Z"
+  "synchronised_at": "2026-09-21T08:02:10Z"
 }
