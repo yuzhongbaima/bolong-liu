@@ -234,32 +234,32 @@
     {
       "title": "Influence of resistance due to locomotion mechanism configurations of a new high-speed amphibious vehicle (HSAV-Ⅱ)",
       "authors": [
-        "Liu B",
-        "Xu X",
-        "Pan D"
+        "Bolong Liu",
+        "Xiaojun Xu",
+        "Dibo Pan"
       ],
       "journal": "Ocean Engineering",
       "year": "2023",
       "month": 9,
-      "volume": "283",
+      "volume": null,
       "issue": null,
-      "page": "115175",
+      "page": null,
       "doi": "10.1016/j.oceaneng.2023.115175",
       "type": "journal-article"
     },
     {
       "title": "Numerical analysis on hydrodynamic performance and hydrofoil optimization for amphibious vehicles",
       "authors": [
-        "Pan D",
-        "Xu X",
-        "Liu B"
+        "Dibo Pan",
+        "Xiaojun Xu",
+        "Bolong Liu"
       ],
       "journal": "Physics of Fluids",
       "year": "2023",
       "month": 8,
-      "volume": "35",
-      "issue": "8",
-      "page": "083330",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1063/5.0159980",
       "type": "journal-article"
     },
@@ -483,5 +483,5 @@
       "type": "journal-article"
     }
   ],
-  "synchronised_at": "2026-09-28T08:47:53Z"
+  "synchronised_at": "2026-10-05T09:14:49Z"
 }
