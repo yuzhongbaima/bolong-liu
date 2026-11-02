@@ -139,12 +139,12 @@
         "Liu B",
         "Xu X"
       ],
-      "journal": "Journal of Physics: Conference Series",
+      "journal": "Journal of Physics Conference Series",
       "year": "2025",
       "month": 0,
-      "volume": "2965",
-      "issue": "1",
-      "page": "012023",
+      "volume": null,
+      "issue": null,
+      "page": null,
       "doi": "10.1088/1742-6596/2965/1/012023",
       "type": "conference-paper"
     },
@@ -483,5 +483,5 @@
       "type": "journal-article"
     }
   ],
-  "synchronised_at": "2026-10-12T09:26:26Z"
+  "synchronised_at": "2026-11-02T09:40:00Z"
 }
